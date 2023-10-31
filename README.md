@@ -19,3 +19,7 @@ The Workflow / Roadmap, depending on the projects, usually comprises of 5 phases
 ![](Construct.png)
 
 ![](Commission.png)
+
+## Typical Projects
+1. SIS (Safety Instrumented System) - [Read more..](https://triwgani.github.io/SIS/)
+2. DCS (Distributed Control System) - [Read more..](https://triwgani.github.io/DCS/)
