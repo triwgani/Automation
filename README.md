@@ -17,3 +17,5 @@ The Workflow / Roadmap, depending on the projects, usually comprises of 5 phases
 ![](Manufacture.png)
 
 ![](Construct.png)
+
+![](Commission.png)
