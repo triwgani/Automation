@@ -11,3 +11,5 @@ I've been involved in several projects with various industries such as Oil & gas
 The Workflow / Roadmap, depending on the projects, usually comprises of 5 phases, namely:
 
 ![](PrepPlan.png)
+
+![](Eng.png)
